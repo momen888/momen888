@@ -4,7 +4,7 @@ I'm a former architect turning software developer. Currently learning C, Python,
 #### 🔧 Tech Stack
 - 🐍 Python, C, JavaScript, Flask
 - 🖥️ HTML, CSS
-- 📐 Rhino Grasshopper, ArchiCAD, SketchUp
+- 📐 Rhino Grasshopper, AutoCAD, SketchUp
 - 📊 SQL, Data Structures
 
 #### 📚 Currently Learning
