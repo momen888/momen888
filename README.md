@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Momen 👋
+I'm a former architect turning software developer. Currently learning C, Python, HTML/CSS, JavaScript, and Flask via CS50. Passionate about problem-solving, parametric design, and clean code.
 
-<!--
-**momen888/momen888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 🔧 Tech Stack
+- 🐍 Python, C, JavaScript, Flask
+- 🖥️ HTML, CSS
+- 📐 Rhino Grasshopper, ArchiCAD, SketchUp
+- 📊 SQL, Data Structures
 
-Here are some ideas to get you started:
+#### 📚 Currently Learning
+- Flask Web Apps
+- Git & GitHub collaboration
+- Algorithms and data structures
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Reach me at: [momen.hussein@gmail.com](mailto:momen.hussein@gmail.com)
